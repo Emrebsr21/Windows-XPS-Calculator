@@ -1,0 +1,11 @@
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\C#_Calculator\C#_Calculator\obj\Debug\C#_Calculator.csproj.AssemblyReference.cache
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\C#_Calculator\C#_Calculator\obj\Debug\C__Calculator.Form1.resources
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\C#_Calculator\C#_Calculator\obj\Debug\C__Calculator.Properties.Resources.resources
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\C#_Calculator\C#_Calculator\obj\Debug\C#_Calculator.csproj.GenerateResource.cache
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\C#_Calculator\C#_Calculator\obj\Debug\C#_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\C#_Calculator\C#_Calculator\bin\Debug\C#_Calculator.exe.config
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\C#_Calculator\C#_Calculator\bin\Debug\C#_Calculator.exe
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\C#_Calculator\C#_Calculator\bin\Debug\C#_Calculator.pdb
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\C#_Calculator\C#_Calculator\obj\Debug\C#_Calculator.exe
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\C#_Calculator\C#_Calculator\obj\Debug\C#_Calculator.pdb
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\C#_Calculator\C#_Calculator\obj\Debug\C__Calculator.UserGuideForm.resources
